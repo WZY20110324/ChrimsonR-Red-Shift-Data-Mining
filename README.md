@@ -11,7 +11,7 @@ ChrimsonR-Red-Shift-Data-Mining/
 
 # ChrimsonR 突变数据挖掘与结构预测分析工具
 
-本项目原为高中高研实验室的独立科研课题。旨在通过“数据挖掘+结构预测”的组合策略，为光敏蛋白 ChrimsonR 的光谱红移改造提供理性设计方案。
+本项目原为初三独立科研课题。旨在通过“数据挖掘+结构预测”的组合策略，为光敏蛋白 ChrimsonR 的光谱红移改造提供理性设计方案。
 
 在此开源项目中，重点展示实现该科研目标所使用的**全流程 Python 自动化脚本与数据库构建技术**。
 
@@ -35,7 +35,7 @@ ChrimsonR-Red-Shift-Data-Mining/
 - 利用 `Bio.PDB.NeighborSearch` (KDTree) 高效检索 6Å 空间范围内的氨基酸残基，为后续定点突变提供靶点。
 
 ## 运行结果展示
-![结果截图](result_screenshot.png)
+见图片
 
 ## 作者
 **[吴卓玥]** - 负责全部数据库搭建、Python 脚本编写与结构分析算法实现。
