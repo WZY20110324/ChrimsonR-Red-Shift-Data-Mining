@@ -35,7 +35,7 @@ ChrimsonR-Red-Shift-Data-Mining/
 - 利用 `Bio.PDB.NeighborSearch` (KDTree) 高效检索 6Å 空间范围内的氨基酸残基，为后续定点突变提供靶点。
 
 ## 运行结果展示
-![结果截图](result_screenshot.png)
+
 
 ## 作者
 **[吴卓玥]** - 负责全部数据库搭建、Python 脚本编写与结构分析算法实现。
